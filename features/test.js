@@ -1,4 +1,4 @@
-// features/google-search-steps.js
+// features/inspheris-lively
 const assert = require('assert');
 const { Given, When, Then, AfterAll } = require('cucumber');
 const { Builder, By, Key } = require('selenium-webdriver');
